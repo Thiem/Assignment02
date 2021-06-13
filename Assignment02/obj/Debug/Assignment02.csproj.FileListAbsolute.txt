@@ -1,0 +1,6 @@
+C:\Aptech\AP\Assignment02\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Aptech\AP\Assignment02\Assignment02\bin\Debug\Assignment02.exe
+C:\Aptech\AP\Assignment02\Assignment02\bin\Debug\Assignment02.pdb
+C:\Aptech\AP\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Aptech\AP\Assignment02\Assignment02\obj\Debug\Assignment02.exe
+C:\Aptech\AP\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
